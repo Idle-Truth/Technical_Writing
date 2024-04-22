@@ -1,1 +1,3 @@
 # Technical_Writing
+
+``` In this project we practiced an implemented skills relating to data interpretation, info-graphic design, and tailoring presentation of materials to a target audience. In the info-graphic provided I presented information about the potential effects of sea-level rise in the Fort Myers area and a chart showing the projected trend sea-level rise over the next twenty-five years.  This info-graphic serves the audience of Fort Myers locals the best as the data presented effects them the most directly. However, this info-graphic is designed in a way that makes it a valuable resource for everyone in areas at risk of the potential dangerous of sea-level rise and to those just wanting to learn more about the subject. ```
